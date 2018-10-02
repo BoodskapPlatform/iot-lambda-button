@@ -18,3 +18,7 @@ httpimpl.handler
 mqttimpl.handler
 udpimpl.handler
 ```
+
+| Releases | Link |
+| ------ | ------ |
+| 1.0.0 | https://github.com/BoodskapPlatform/iot-lambda-button/releases/download/1.0.0/boodskap-iot-button.zip|
