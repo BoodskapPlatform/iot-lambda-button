@@ -1,0 +1,24 @@
+{
+  "name": "boodskap-iot-button",
+  "version": "1.0.0",
+  "description": "Boodskap IoT Button",
+  "main": "index.js",
+  "scripts": {
+    "pack": "npm-pack-zip"
+  },
+  "author": "Boodakap Inc",
+  "license": "MIT",
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "mqtt": "^2.18.8",
+    "request": "^2.88.0"
+  },
+  "bundledDependencies": [
+    "request",
+    "dgram",
+    "mqtt"
+  ],
+  "devDependencies": {
+    "npm-pack-zip": "^1.2.6"
+  }
+}
